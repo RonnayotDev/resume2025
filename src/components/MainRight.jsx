@@ -198,7 +198,7 @@ const MainRight = () => {
             <img src={linkedicon} alt="" style={{ width: 20, height: 24 }} />
             <a
               className="text-blue-500"
-              href="https://github.https://www.linkedin.com/in/ronnayot-jaisai-08534a202//RonnayotDev"
+              href="https://www.linkedin.com/in/ronnayot-jaisai-08534a202/"
               target="_blank"
             >
               Linkedin
