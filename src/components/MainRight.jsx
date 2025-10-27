@@ -71,7 +71,7 @@ const MainRight = () => {
       <div>
         <div>
           <p>
-            Bachelor’s Degree of Computer Science from{" "}
+            Bachelor’s Degree of Information Technology from{" "}
             <a
               className="text-blue-500 hover:underline"
               href="https://www.su.ac.th/"
