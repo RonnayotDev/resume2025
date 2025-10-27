@@ -120,6 +120,22 @@ const MainRight = () => {
             </p>
           </div>
         </div>
+         <div className="flex my-4">
+          <div>
+            <a
+              className="text-blue-500"
+              href="https://github.com/RonnayotDev/CRUD-NODE-REACT"
+              target="_blank"
+            >
+              CRUDE with Nodejs, React,{" "}
+            </a>
+          </div>
+          <div>
+            <p className="px-2">
+             CRUD Application using basic nodejs and react.{" "}
+            </p>
+          </div>
+        </div>
         <div className="flex my-4">
           <div>
             <a
